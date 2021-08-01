@@ -1,3 +1,5 @@
+jawaban elsyana: 
 produk owner: menentukan tujuan proyek 
 scrum master: memantau proyek
 developer: mengerjakan tas proyek
+
