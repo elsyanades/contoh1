@@ -5,3 +5,4 @@ git init membuat repo
 git add menambahkan file pada repo kita
 git commit mengupload file yang kita buat ke repo kita
 git push mengupload file ke master repo
+dsb
