@@ -4,3 +4,4 @@ Jawaban yazid :
 sebuah kumpulan perangkat lunak yang terintegrasi dan digunakan untuk membantu SE mengelola perubahan
 dalam source code dari waktu ke waktu, mempermudah melacak dalam setiap perubahan dan dapat
 membangingkan kode dari versi sebelumnya dan mulai memperbaiki kekeliruan.
+Jawaban Pretty : perangkat lunak yang sudah terintegrasi dan digunakan untuk membantu software engineer mengelola perubahan dalam source code dari waktu ke waktu. 
