@@ -1,2 +1,8 @@
 jawaban elsyana:
 memeriksa daily sprint berjalan dengan baik
+Jawaban Yazid :
+1, The Sprint : merupakan acara scrum yang berdurasi tetap, dan sprint yang 
+		baru akan dimulai dengan segera setelah sprint sebelumnya berakhir.
+2. Sprint Planning : membahas item mana yang akan dikerjakan selama sprint berjalan.
+3. Daily Scrum : dilakukan setiap hari untuk beberapa tujuan, seperti progres yang telah selesai
+                 untuk mencapai sprint goal.
