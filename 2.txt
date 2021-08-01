@@ -11,3 +11,8 @@ Scrum Master : sebuah peran yang fokus terhadap kesuksesan implementasi proses p
 Developer : adalah team pengembangan aplikasi, terdiri dari berbagai macam peran, sebagai contoh
             ada software engineer, UI designer, QA dan lain sebagainya yang bekreja sama untuk membanguan
             perangkat lunak sesuai prioritas pekerjaan yang disepakati bersama.
+Jawaban Pretty :
+Product Owner menyusun prioritas pekerjaan bagi Development Team sehingga nilai terbaik dari produk perangkat lunak dapat diperoleh secara bertahap dan iteratif.
+Development Team merupakan sebuah tim yang terdiri dari berbagai macam peran yang dibutuhkan untuk membangun produk perangkat lunak.
+Scrum Master ini dapat dipahami dari beberapa peran spesifik yang dijalankannya: process manager, coach, facilitator, dan change agent.
+
