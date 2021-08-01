@@ -2,4 +2,12 @@ jawaban elsyana:
 produk owner: menentukan tujuan proyek 
 scrum master: memantau proyek
 developer: mengerjakan tas proyek
-
+Jawaban Yazid :
+Product Owner : Lebih fokus pada kesuksesan product, memberikan arahan 
+	        product melalui visi produknya.
+Scrum Master : sebuah peran yang fokus terhadap kesuksesan implementasi proses perangkat
+               lunak. memastikan aktivitas dalam pengembangan. membantu product owner dan dan team pengembangan
+               untuk bekerja secara kolaboratif.
+Developer : adalah team pengembangan aplikasi, terdiri dari berbagai macam peran, sebagai contoh
+            ada software engineer, UI designer, QA dan lain sebagainya yang bekreja sama untuk membanguan
+            perangkat lunak sesuai prioritas pekerjaan yang disepakati bersama.
