@@ -6,3 +6,4 @@ Jawaban Yazid :
 2. Sprint Planning : membahas item mana yang akan dikerjakan selama sprint berjalan.
 3. Daily Scrum : dilakukan setiap hari untuk beberapa tujuan, seperti progres yang telah selesai
                  untuk mencapai sprint goal.
+Jawaban Pretty : memandu perubahan proses dari proses perangkat lunak saat ini yang umumnya tidak terdefinisi menuju proses Scrum. 
